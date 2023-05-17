@@ -1,0 +1,46 @@
+(84,94)
+
+elipse-voca =(+5, -50) Rx=14 Ry = 8
+elipse-ojo1 =(-1,-60) Rx = 6 Ry = 8
+elipse-ojo2 =(+13,-60) Rx = 6 Ry = 8 
+circunferencia-cuerpo = (+2, -34) R = 8
+circunferencia-mano 1 = (-14,-28) R = 8	
+circunferencia-mano 2 = (+2,-28) R = 8
+elipse-calcetin1 =(-7,-10) Rx = 7 Ry = 4
+elipse-calcetin2 =(+1,-12) Rx = 6 Ry = 3
+---------------------------------------------------------------
+linea4 (+17,-60)(+17,-67)-
+linea3 (+17,-67)(+9,-75)-
+linea2 (+9,-75)(-15, -81)-
+linea1 (-15, -81)(-23,-81)-
+linea5 (-23,-81)(-33,-76)-
+linea6 (-33,-76)(-21,-69)-
+linea7 (-21,-69)(-38,-58)-
+linea8 (-38,-58)(-19,-47)-
+linea9 (-19,-47)(-28,-37)-
+linea10 (-28,-37)(-9,-46)-
+linea11 (-9,-46)(-21,-34)-
+
+linea12 (-11,-22)(-11,-13)-
+linea13 (-14,-9)(-18,+0)-
+linea14 (-18,+0)(+0,+0)-
+linea15 (+0,+0)(+21,+0)-
+linea16 (+0,+0)(-2,-8)-
+linea17 (+21,+0)(+21,-6)-
+linea18 (+21,-6)(+7, -12)-
+linea19 (-5,-14)(-4,-28)-
+linea20 (-2,-15)(-2,-27)-
+linea21 (+4,-4)(+4,-26)-
+linea22 (+6,-12)(+21,-6)
+
+lineaNariz(+9,-52)(+17,-55)-
+lineaOjos1(+11,-57)(+11,-61)-
+lineaOjos2(+0,-55)(+0,-61)-
+
+pintarPixel(-26,-76)
+pintarPixel(-35,-58)
+pintarPixel(-20,-43)
+pintarPixel(-15, -38)
+pintarPixel(-9, -18)
+pintarPixel(-16,-1)
+pintarPixel(+1,-1)
